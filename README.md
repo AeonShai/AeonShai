@@ -1,3 +1,4 @@
+[![MasterHead](https://files.kick.com/images/channel/7625677/banner_image/e9fe94b2-2f09-43af-aebb-ee91c304b6c7)
 <h1 align="center">🎷🦆 I'm a Software Engineer Student</h1>
 <h3 align="center">Fullstack Developer and White Hat Hacker</h3>
 
