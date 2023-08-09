@@ -1,9 +1,9 @@
-<h1 align="center">🎷🦆 I'm the best saxophone duck</h1>
+<h1 align="center">🎷🦆 I'm a Software Engineer Student</h1>
 <h3 align="center">Fullstack Developer and White Hat Hacker</h3>
 
 - 🌱 I’m currently learning **Frameworks, Assembly, Ethical Hacking**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:ilginshai (ig, dc)</h3>
 <p align="left">
 </p>
 
