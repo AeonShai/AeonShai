@@ -1,9 +1,7 @@
-<h1 align="center">🎷🦆 I'm a Software Engineer Student</h1>
-<h3 align="center">Fullstack Developer and White Hat Hacker</h3>
+<h1 align="center"> I'm a Software Engineer Student</h1>
+<h3 align="center">Fullstack Developer</h3>
 
 - 🌱 I’m currently learning **Frameworks, Assembly, Ethical Hacking**
-- 🦆And i love video games: **i love LoL.**
-
 <h3 align="left">Connect with me:ilginshai (ig, dc)</h3>
 <p align="left">
 </p>
