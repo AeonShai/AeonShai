@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif)
+
 
 <h1 align="center" style="font-size: 3rem;">Hi 👋, I'm Ilgın</h1>
 <h3 align="center" style="font-size: 2rem;">Software Engineering Student</h3>
