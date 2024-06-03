@@ -103,4 +103,3 @@
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height
 
-    ![snake gif](https://github.com/AeonShai/AeonShai/blob/output/github-contribution-grid-snake.gif)
