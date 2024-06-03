@@ -1,4 +1,4 @@
- [![MasterHead](https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif)
+[![MasterHead](https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif)
 <h1 align="center">Hi 👋, I'm Ilgın</h1>
 <h3 align="center">Software Engineering Student</h3>
 
